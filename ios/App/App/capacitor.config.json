@@ -1,0 +1,6 @@
+{
+	"appId": "com.hongsyong.ionicexample",
+	"appName": "ExampleIonicApp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
